@@ -1,0 +1,32 @@
+.header-main {
+    background-color: white;
+    display: flex;
+    margin-bottom: 10px;
+
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-top: 10px;
+    min-height: 40px;
+}
+
+.header-logo {
+
+}
+
+.nav-main {
+
+}
+
+.nav-list {
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+    cursor: pointer;
+    li {
+        padding-left: 20px;
+
+        a {
+            text-decoration: none;
+        }
+    }
+}
